@@ -1,0 +1,22 @@
+body {
+    background-color: lightblue;
+}
+table {border-collapse: collapse;
+}
+table, th, td {
+    border: 1px solid black;
+ }
+h1 {color: blueviolet; text-align: center;}
+h3{text-align:center;}
+p {line-height:180%;}
+ul {font-style: italic;}
+ol {font-style:italic;}
+
+.chart div {
+    font: 10px sans-serif;
+    background-color: steelblue;
+    text-align: right;
+    padding: 3px;
+    margin: 1px;
+    color: white;
+  }
